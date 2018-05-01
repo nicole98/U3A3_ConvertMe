@@ -179,8 +179,8 @@ public class UnitConversion extends javax.swing.JFrame {
 
     /**
      * Convert units
-     * pre: User enters a conversion choice
-     * post: A value will be converted and returned in different units
+     * pre: User enters a conversion choice and value
+     * post: The value will be converted and returned in different units
      */
    
     public static double centimeterToInches(double value){
